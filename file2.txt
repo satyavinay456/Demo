@@ -1,4 +1,5 @@
 f2-line1
 f2-line2
+master
 f2-line3
 f2-line4
